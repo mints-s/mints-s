@@ -3,6 +3,7 @@
 Computer Vision Researcher
 Generative Video · Motion & Dynamics Preservation · Video Quality Evaluation
 
+---
 
 About
 
@@ -11,6 +12,7 @@ About
 
 현재는 Image-to-Video(I2V) / Video-to-Video(V2V) 파이프라인에서, 강한 정제가 시각 품질을 높이는 동시에 기준 영상의 움직임 구조를 바꿔버리는 상충관계를 정량적으로 분석하고 완화하는 연구를 진행하고 있습니다.
 
+---
 
 Research Interests
 
@@ -35,7 +37,7 @@ Methodology
 Optical-flow based auxiliary metrics for motion deviation
 Residual refinement & constraint-based learning
 
-
+---
 
 Featured Project
 
@@ -44,7 +46,7 @@ I2V-V2V Physics-Preserving Refinement
 
 I2V 생성 영상의 시각 품질을 개선하면서 기준 영상의 움직임 구조 이탈을 제한하기 위한 DyRefHead 출력 정제 연구
 
-
+---
 
 고정된 I2V 백본이 생성한 기준 영상의 움직임 구조를 동역학 선행정보(dynamics prior) 로 보고, 그 후단에 학습 가능한 출력 정제 헤드 DyRefHead를 결합해 시각 품질 개선 과 움직임 보존 사이의 상충관계를 분석합니다.
 
