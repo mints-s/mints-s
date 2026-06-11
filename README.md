@@ -88,11 +88,6 @@ Currently / Next
 user preference 기반 정성 평가 추가
 residual refinement 구조와 동역학 제약의 일반화 가능성 검증
 
-### Contact
-
-- Email: kingsman518@gmail.com
-- GitHub: [github.com/mints-s](https://github.com/mints-s)
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mints-s&layout=compact&langs_count=8&hide=html,css)
