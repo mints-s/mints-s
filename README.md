@@ -8,9 +8,9 @@ Generative Video · Motion & Dynamics Preservation · Video Quality Evaluation
 About
 
 컴퓨터 비전과 딥러닝을 기반으로 영상의 생성과 정제 문제를 연구합니다.
-특히 생성된 영상에서 시각 품질과 움직임 구조를 동시에 만족시키는 방법에 관심이 있습니다.
+특히 생성된 영상에서 시각 품질과 움직임 구조를 동시에 만족시키는 방법에 관심을 가지고 있습니다.
 
-현재는 Image-to-Video(I2V) / Video-to-Video(V2V) 파이프라인에서, 강한 정제가 시각 품질을 높이는 동시에 기준 영상의 움직임 구조를 바꿔버리는 상충관계를 정량적으로 분석하고 완화하는 연구를 진행하고 있습니다.
+현재는 Image-to-Video(I2V) / Video-to-Video(V2V) 파이프라인을 벗어난, 물리적 정합성을 갖춘 영상 / 모델 생성 방식에 관심을 두고 공부 중 입니다.
 
 ---
 
@@ -78,7 +78,7 @@ text[Input Image / Action Condition]
 
 MethodVBench Imaging ↑mean Flow EPE ↓Flow Ratio ≈ 1Stage-1 I2V output0.61870.00001.0000VEnhancer n300.65870.27823.4906DyRefHead v20.62420.18831.6971DyRefHead v30.62220.19011.5899
 
-DyRefHead v2는 VEnhancer n30만큼 강한 시각 정제를 달성하지는 못했지만, 기준 I2V 출력보다 VBench Imaging을 소폭 향상시키면서 VEnhancer보다 낮은 움직임 이탈 보조 지표를 보였습니다.
+DyRefHead v2는 VEnhancer n30만큼 강한 시각 정제를 달성하지는 못했지만, 기준 I2V 출력보다 VBench Imaging을 소폭 향상시키면서 VEnhancer보다 낮은 움직임 이탈 보조 지표를 보였음.
 
 
 Currently / Next
