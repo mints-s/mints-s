@@ -12,8 +12,6 @@ Generative Video · Motion & Dynamics Preservation · Video Quality Evaluation
 
 현재는 Image-to-Video(I2V) / Video-to-Video(V2V) 파이프라인에서, 강한 정제가 시각 품질을 높이는 동시에 기준 영상의 움직임 구조를 바꿔버리는 **상충관계를 정량적으로 분석하고 완화**하는 연구를 진행하고 있습니다.
 
-연구뿐 아니라 Java / Spring Boot 기반 백엔드 개발 경험이 있어, 실험 파이프라인과 평가 자동화를 직접 구축하고 운영하는 것을 선호합니다.
-
 ---
 
 ### Research Interests
